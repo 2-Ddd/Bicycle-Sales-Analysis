@@ -12,24 +12,12 @@ Using historical rain information from Australia regions in 10 years as research
 ![image](https://user-images.githubusercontent.com/102453318/183581327-f57347d5-5414-45df-9133-57cec49e2f36.png)
 
 ## Objectives
-- What factors and conditions in current day that will cause rain in the next 
-day?
-- What machine learning algorithms are suitable for predicting rain in the next 
-day?
-- Where is the location that has the highest frequency of rain?
-- What is the impact of the predictive model for business problems that 
-operating in the agricultural sector?
-
+- Identify the key factors and conditions on any given day that may influence rain the following day.
+- Evaluate various machine learning algorithms to determine their effectiveness in predicting rainfall within a 24-hour period.
+- Determine which geographical location experiences the most frequent occurrences of rainfall.
+- Assess the practical implications of employing predictive models for enhancing operational efficiencies in the agricultural sector.
 ## Conclusion
-- Based on Heatmap and SHAP values for feature importances, Humidity at 3pm and Sunshine has the big
-impact to cause rain in the next day.
-- Random Forest classifier is the best model algorithm for predicting rain the next day because have the
-highest AUC score than other classifier algorithm.
-- The location with the most rain frequency is Portland with rain season tend to happen in May until August.
-- Based on simulation, model performance can help saving company cost for water supply by 32%.
-"# Australia_Rain_Prediction" 
-"# Australia_Rain_Prediction" 
-"# Australia_Rain_Prediction" 
-"# Australia_Rain_Prediction" 
-"# Australia_Rain_Prediction" 
-"# Australia_Rain_Prediction" 
+- Analysis of heatmap and SHAP values reveals that Humidity at 3pm and Sunshine are pivotal factors influencing rain prediction for the subsequent day.
+- Among the machine learning algorithms evaluated, the Random Forest classifier emerges as the top performer, achieving the highest AUC score compared to other classifiers.
+- Portland stands out as the location with the highest incidence of rainfall, notably during the months of May through August.
+- Simulation findings suggest that adopting predictive models could potentially yield a substantial 32% reduction in water supply costs for agricultural businesses.
