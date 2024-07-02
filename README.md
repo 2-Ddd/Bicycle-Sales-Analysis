@@ -1,13 +1,12 @@
 # Rain-Prediction-Using-Machine-Learning
 
-The weather has a significant impact on many life aspects, one of which is agricultural industry and because of that, being able to predict it helps farmers in their day-to-day decisions such as how to plan efficiently, minimize costs and maximize yields.
+The weather profoundly affects numerous aspects of life, notably the agricultural industry. Accurate prediction of weather patterns empowers farmers to make informed daily decisions, optimizing planning, reducing expenses, and enhancing crop yields.
 
 ![image](https://media.tehrantimes.com/d/t/2022/06/07/3/4174500.jpg?ts=1654586765162)
 
-A major agricultural company needs to have an accurate rain prediction algorithm that will improve their decision-making on typical farming activities such as planting
-and irrigating.
+A prominent agricultural firm requires a precise rain forecasting algorithm to enhance their decision-making process for essential farming tasks like planting and irrigation.
 
-Using historical rain information from Australia regions in 10 years as research data, it is necessary to predict weather(rain) in next day.
+Utilizing ten years of historical rainfall data from various regions in Australia, it is crucial to predict weather conditions, particularly rainfall, for the following day.
 
 ![image](https://user-images.githubusercontent.com/102453318/183581327-f57347d5-5414-45df-9133-57cec49e2f36.png)
 
